@@ -1,0 +1,8 @@
+streamlit==1.37.1
+requests==2.32.1
+pandas==2.0.3
+pandas_ta==0.3.14b0
+vectorbt==0.26.2
+QuantStats==0.0.62
+plotly==5.22.0
+numpy==1.26.4
